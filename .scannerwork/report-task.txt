@@ -1,0 +1,6 @@
+projectKey=ExclusaoScanner
+serverUrl=http://10.151.13.100
+serverVersion=6.7.2.37468
+dashboardUrl=http://10.151.13.100/dashboard/index/ExclusaoScanner
+ceTaskId=AWOwRHXPsHa443cwd7kY
+ceTaskUrl=http://10.151.13.100/api/ce/task?id=AWOwRHXPsHa443cwd7kY

@@ -1,0 +1,1 @@
+Exclusao de Scannersonar :	J1.2RExclusaoScanner
